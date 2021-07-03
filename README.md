@@ -2,7 +2,7 @@
 
 - How to reach me: 
   - 📫 obenky@gmail.com
-  - <a href="https://www.linkedin.com/in/ond%C5%99ej-benkovsk%C3%BD-5b0842ba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Tantalor93" height="20" width="30" /></a>
+  - <a href="https://www.linkedin.com/in/ond%C5%99ej-benkovsk%C3%BD-5b0842ba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Tantalor93" height="20" width="30" /></a> [Ondřej Benkovský](https://www.linkedin.com/in/ond%C5%99ej-benkovsk%C3%BD-5b0842ba/)
 - 💻 Programming languages: Java, Golang, Javascript (React)
 - 🌱 I’m currently learning:
   - Deepening my Golang language knowledge <a href="https://kubernetes.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/golanguage.svg" alt="kubernetes" height="20" width="30" /></a>
