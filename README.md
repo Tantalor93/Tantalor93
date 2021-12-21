@@ -6,7 +6,7 @@
 - 💻 Programming languages: Java, Golang, Javascript (React)
 - 🌱  I’m currently learning:
   - Deepening my Golang language knowledge
-  - DNS protocol (DNS, DoT, DoH) and DNS resolvers ([CoreDNS](https://github.com/coredns/coredns))
+  - DNS protocol (DNS, DoT, DoH) and DNS resolvers ([CoreDNS](https://github.com/coredns/coredns), [Knot Resolver](https://www.knot-resolver.cz/))
   - Deepening my knowledge about Kubernetes <a href="https://kubernetes.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg" alt="kubernetes" height="20" width="30" /></a>
 
 
