@@ -8,5 +8,8 @@
 - 👷 I’m currently working on [CoreDNS](https://github.com/coredns/coredns)-based DNS gateways and related infrastructure and microservices running in<a href="https://kubernetes.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg" alt="kubernetes" height="20" width="30" /></a>
 Kubernetes clusters and written in GO and Java providing security solution for mobile devices across the world.
 
-<p><img align="left" src="https://benky-github-readme-stats.vercel.app/api/top-langs/?username=tantalor93&layout=compact&count_private=false&role=OWNER&hide=tex" alt="tantalor93" /</p> 
-<p>&nbsp;<img align="center" src="https://benky-github-readme-stats.vercel.app/api?username=tantalor93&show_icons=true&count_private=false&role=OWNER" alt="tantalor93" /></p> 
+<p>
+  <img height=200 width=350 src="https://benky-github-readme-stats.vercel.app/api/top-langs/?username=tantalor93&layout=compact&count_private=false&role=OWNER&hide=tex" alt="tantalor93"/> 
+  &nbsp;
+  <img height=200 width=425 src="https://benky-github-readme-stats.vercel.app/api?username=tantalor93&show_icons=true&count_private=false&role=OWNER" alt="tantalor93" />
+</p> 
