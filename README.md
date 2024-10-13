@@ -11,5 +11,5 @@ Kubernetes clusters and written in GO and Java providing security solution for m
 <p>
   <img height=200 align="center" src="https://benky-github-readme-stats.vercel.app/api/top-langs/?username=tantalor93&layout=compact&role=OWNER&hide=tex" alt="top-langs"/>
   &nbsp;
-  <img height=200 align="center" src="https://benky-github-readme-stats.vercel.app/api?username=tantalor93&show_icons=true&role=OWNER&card_width=400px" alt="github-stats" />
+  <img height=200 align="center" src="https://benky-github-readme-stats.vercel.app/api?username=tantalor93&show_icons=true&role=OWNER&card_width=350px" alt="github-stats" />
 </p> 
