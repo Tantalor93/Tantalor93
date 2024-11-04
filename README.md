@@ -18,6 +18,9 @@
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg" width="48" height="48" /> 
   </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" width="48" height="48" /> 
+  </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" /> 
   </a>
@@ -32,6 +35,15 @@
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" width="48" height="48" /> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" /> 
+  </a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg" width="48" height="48" /> 
+  </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" width="48" height="48" /> 
   </a>
 </p>
 
