@@ -10,9 +10,7 @@
 
 <p align="left"> 
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> 
-    <picture> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" /> 
-    </picture> 
   </a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
     <picture> 
