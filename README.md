@@ -3,7 +3,7 @@
 * 🌍 I'm based in Brno, Czechia
 * ✉️ You can contact me at [obenky@gmail.com](mailto:obenky@gmail.com)
 * 💻 Programming languages: Java, Golang
-* ✏️ See my [blog](https://tantalor93.github.io/about/)
+* ✏️ See my [personal page](https://tantalor93.github.io/about/)
 
 
 ### Skills
